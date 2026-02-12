@@ -135,3 +135,5 @@ Thumbs.db
 outputs/
 data/generated/
 data/processed/
+data/raw/
+data/final/
